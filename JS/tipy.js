@@ -16,17 +16,17 @@ const asijskeDrama = [
     },
     {
       nazev: "Všem klukům, které jsem milovala",
-      popis: "My Holo Love je mé úplně první shlédnuté drama Na Netflixu. My Holo Love je romantické a psychologické drama, které v člověku zanechá hluboký dojem a člověk o tom pak dlouho přemýšlí. Jedním z hlavních témat tohoto drama je umělá inteligence.",
+      popis: "Milostné dopisy mají mnoho podob. Lara Jean nikdy žádný nedostala, ale pár už jich napsala – na rozloučenou. Lara žádnému klukovi nedala najevo, že se do něj zamilovala. Místo toho mu napsala dopis o tom, jak se cítí, pečlivě ho zapečetila a schovala do krabice pod svou postelí. Ale jednoho dne dopisy z krabice zmizí a Lara zjistí, že je někdo rozeslal. A najednou musí čelit všem svým pocitům, které před světem – a hlavně přímo před adresáty – pečlivě ukrývala! A jak se postupně vyrovnává s minulostí, zjišťuje, že něco dobrého to rozeslání dopisů přece jen přineslo.",
       video: "../obalyknih/tipynaprazdniny/vsemklukumkterejsemmilovala.jpg",
     },
     {
       nazev: "Navždy s láskou, Lara Jean",
-      popis: "Perfect and Casual je mé první drama, které jsem shlédla celé. Celé tohle drama jsem shlédla na YouTube. Díky tomu, že jsem na tohle náhodou narazila, začala jsem sledovat asijská dramata.",
+      popis: "Lara Jean zažívá ten nejlepší maturitní ročník, který si dívka může přát. Je bláznivě zamilovaná do svého přítele Petera, její táta se znovu žení a sestra Margot je na léto doma. Zatímco připravuje svatbu, nemůže již dál přehlížet velké rozhodnutí, které před ní stojí. Odejít na vysokou a opustit tak nejen svou rodinu, ale i přítele, kterého miluje. Proč jí srdce a rozum radí, že by se měla rozhodnout jinak?",
       video: "../obalyknih/tipynaprazdniny/navzdyslaskoularajean.jpg",
     },
     {
-      nazev: "P.S. Stále tě miluji",
-      popis: "Run On je jedno z mych prvních dramat, které jsem viděla. Run on je velice pohodové a oddechové drama.",
+      nazev: "P.S. Stále tě miluju",
+      popis: "Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba předstírat přestali a najednou je Lara Jean zmatenější než kdy dřív a neví co dělat. A pak se do jejího života vrátí kluk, co se jí dříve líbil, a spolu s ním i to, co k němu cítila. Je možné, aby byla holka zamilovaná do dvou kluků najednou? Půvabné pokračování knihy Všem klukům, které jsem milovala ukazuje, že láska není nikdy jednoduchá, ale že možná to ji činí tak úžasnou.",
       video: "../obalyknih/tipynaprazdniny/navzdyslaskoularajean.jpg",
     },
   ];
