@@ -1,31 +1,31 @@
 const asijskeDrama = [
     {
-      nazev: "Doctors",
+      nazev: "Kluk odvedle",
       popis: "Doctors je drama, které jsem viděla jako druhé hned po Perfect And Casual. Je to také jediné drama, které jsem rozkoukala na YouTube a dokoukala na Netflixu.",
-      video: "https://www.youtube.com/embed/e5BHCHhr2Yw",
+      video: "../obalyknih/tipynaprazdniny/klukodvedle.jpg",
     },
     {
-      nazev: "You are my hero",
+      nazev: "Léto, kdy jsem zkrásněla",
       popis: "You Are My Hero je mé nejoblíbenější čínské drama, které jsem dokoukala. Díky tomuhle dramatu jsem našla stránku, na které se můžu koukat na skoro všechny známější seriály a filmy co se v Asii vysílají.",
       video: "https://youtube.com/embed/3CZTTgQ5_6g",
     },
     {
-      nazev: "Love O2O",
+      nazev: "Léto bez tebe není léto",
       popis: "Love 020 je mé první Čínské drama, které jsem viděla na Netflixu. NA tomto dramatu se mi líbí, že je ze školního prostředí a hlavní hrdinové hrají RPG hru, přes kterou se seznámí a poté se do sebe zamilují.",
       video: "https://youtube.com/embed/tiiN4rDwa8g",
     },
     {
-      nazev: "My Holo Love",
+      nazev: "Všem klukům, které jsem milovala",
       popis: "My Holo Love je mé úplně první shlédnuté drama Na Netflixu. My Holo Love je romantické a psychologické drama, které v člověku zanechá hluboký dojem a člověk o tom pak dlouho přemýšlí. Jedním z hlavních témat tohoto drama je umělá inteligence.",
       video: "https://youtube.com/embed/iBnc0x3t-hs",
     },
     {
-      nazev: "Perfect And Casual",
+      nazev: "Navždy s láskou, Lara Jean",
       popis: "Perfect and Casual je mé první drama, které jsem shlédla celé. Celé tohle drama jsem shlédla na YouTube. Díky tomu, že jsem na tohle náhodou narazila, začala jsem sledovat asijská dramata.",
       video: "https://youtube.com/embed/aM_3QD63Mc4",
     },
     {
-      nazev: "Run on",
+      nazev: "P.S. Stále tě miluji",
       popis: "Run On je jedno z mych prvních dramat, které jsem viděla. Run on je velice pohodové a oddechové drama.",
       video: "https://youtube.com/embed/KVsok-tMcYw",
     },
