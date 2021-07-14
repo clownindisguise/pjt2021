@@ -27,7 +27,7 @@ const asijskeDrama = [
     {
       nazev: "P.S. Stále tě miluju",
       popis: "Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba předstírat přestali a najednou je Lara Jean zmatenější než kdy dřív a neví co dělat. A pak se do jejího života vrátí kluk, co se jí dříve líbil, a spolu s ním i to, co k němu cítila. Je možné, aby byla holka zamilovaná do dvou kluků najednou? Půvabné pokračování knihy Všem klukům, které jsem milovala ukazuje, že láska není nikdy jednoduchá, ale že možná to ji činí tak úžasnou.",
-      video: "../obalyknih/tipynaprazdniny/navzdyslaskoularajean.jpg",
+      video: "../obalyknih/tipynaprazdniny/psstaletemiluju.jpg",
     },
   ];
   const anime = [
