@@ -1,33 +1,33 @@
 const asijskeDrama = [
     {
       nazev: "Kluk odvedle",
-      popis: "Doctors je drama, které jsem viděla jako druhé hned po Perfect And Casual. Je to také jediné drama, které jsem rozkoukala na YouTube a dokoukala na Netflixu.",
+      popis: "Šestnáctiletá Charlotte Charlie Reynoldsová si vždycky myslela, že jí skutečnost, že ji vychovával jen táta a tři starší bratři, přináší samé výhody. Dovede totiž předběhnout, porazit a přechytračit každého kluka, kterého zná - včetně svého čtvrtého bratra, souseda Bradena. Ale jak přijde na ,holčičí chování´, Charlie vůbec neví, co si počít. Když začne pracovat v módním butiku, aby si vydělala na splacení pokuty za rychlost, ocitne se v neprobádaném světě make-upu, krajkových sukní a blýskávých flitrů. A je to o to divnější, že tráví čas ve společnostu kluka, který ji nikdy neviděl nakopávat zadky při sportu. Aby se vyrovnala se stresem, který ji způsobuje nutnost předstírat, že se v téhle nové džungli vyzná, utíká na zadní dvorek. Pozdě v noci si o svých problémech povídá s Bradenem přes plot, který je odděluje. Ale jejich noční rozhovory nemohou vyřešit Charliin největší problém: začíná se do Bradena zakoukávat. A to jakože dost. Ví, jak si jít pro vítězství, ale pokud ho kvůli tomuhle tajemství ztratí úplně, sázky jsou najednou příliš vysoké.",
       video: "../obalyknih/tipynaprazdniny/klukodvedle.jpg",
     },
     {
       nazev: "Léto, kdy jsem zkrásněla",
-      popis: "You Are My Hero je mé nejoblíbenější čínské drama, které jsem dokoukala. Díky tomuhle dramatu jsem našla stránku, na které se můžu koukat na skoro všechny známější seriály a filmy co se v Asii vysílají.",
-      video: "https://youtube.com/embed/3CZTTgQ5_6g",
+      popis: "Belly měří svůj život v létech, a tím nemyslíme roky, ale roční období. Všechno zajímavé a báječné se v jejím případě odehrává výhradně od června do srpna. Zimy jsou dobré pouze na to, aby počítala týdny do dalšího léta, kdy konečně s mámou a bratrem Stevenem odjede jako každý rok k moři. Tedy přesněji řečeno do prázdninového domu přímo na pláži, který patří Suzanně, mámině nejlepší přítelkyni. A k Suzanně a jejímu domu zase neodmyslitelně patří její dva synové, Konrád a Jeremiáš. Tuhle dvojičku zná Belly odmala a co si pamatuje, jenom netrpělivě čeká, až si jí kluci začnou konečně všímat a vezmou ji mezi sebe. A toto léto se to konečně stane. A navíc se z nevýrazného káčátka vyloupne krásná labuť. Belly je k údivu všech najednou krásná mladá dívka. Jenže v toto báječné a zároveň hrozné léto se změní i všechno ostatní. Vlastně se promění Bellin celý život. K lepšímu i k tomu horšímu…",
+      video: "../obalyknih/tipynaprazdniny/letokdyjsemzkrasnela.jpg",
     },
     {
-      nazev: "Léto bez tebe není léto",
-      popis: "Love 020 je mé první Čínské drama, které jsem viděla na Netflixu. NA tomto dramatu se mi líbí, že je ze školního prostředí a hlavní hrdinové hrají RPG hru, přes kterou se seznámí a poté se do sebe zamilují.",
-      video: "https://youtube.com/embed/tiiN4rDwa8g",
+      nazev: "Bez tebe to není léto",
+      popis: "Belly strávila dosud každé léto svého života v domě na pláži v městečku Cousins. Jenomže teď se všechno změnilo. Když už to téměř vypadalo, že s Konrádem, svou osudovou láskou, přece jen začne chodit, nakonec skončila jen se zlomeným srdcem. A teď ji čeká vůbec první léto doma, ve městě. Bez pláže, bez oceánu a hlavně bez těch, které má po své rodině nejraději na světě — bez Susanny, bez Jeremiáše a samozřejmě i bez Konráda. Nejlepší Bellyina kamarádka Taylor má spoustu náhradních prázdninových plánů („Vždyť i tady jsou super kluci! A bazén taky, no ne, Belly?“). Jenomže pak jednoho dne zazvoní Belly mobil a Jeremiáš jí oznamuje, že Konrád zmizel. Všechno napovídá tomu, že odjel do Cousins. Proč? Co ho k tomu přimělo? A tak se Belly s Jeremiášem vydávají na záchrannou misi do tolik milovaného letního domu.Zažije sedmnáctiletá Belly nakonec jen další léto plné naděje a trápení, které jí její láska ke Konrádovi přináší? Nebo se ho už konečně dokáže vzdát a zařídit si vlastní život?",
+      video: "../obalyknih/tipynaprazdniny/beztebetonenileto.jpg",
     },
     {
       nazev: "Všem klukům, které jsem milovala",
       popis: "My Holo Love je mé úplně první shlédnuté drama Na Netflixu. My Holo Love je romantické a psychologické drama, které v člověku zanechá hluboký dojem a člověk o tom pak dlouho přemýšlí. Jedním z hlavních témat tohoto drama je umělá inteligence.",
-      video: "https://youtube.com/embed/iBnc0x3t-hs",
+      video: "../obalyknih/tipynaprazdniny/vsemklukumkterejsemmilovala.jpg",
     },
     {
       nazev: "Navždy s láskou, Lara Jean",
       popis: "Perfect and Casual je mé první drama, které jsem shlédla celé. Celé tohle drama jsem shlédla na YouTube. Díky tomu, že jsem na tohle náhodou narazila, začala jsem sledovat asijská dramata.",
-      video: "https://youtube.com/embed/aM_3QD63Mc4",
+      video: "../obalyknih/tipynaprazdniny/navzdyslaskoularajean.jpg",
     },
     {
       nazev: "P.S. Stále tě miluji",
       popis: "Run On je jedno z mych prvních dramat, které jsem viděla. Run on je velice pohodové a oddechové drama.",
-      video: "https://youtube.com/embed/KVsok-tMcYw",
+      video: "../obalyknih/tipynaprazdniny/navzdyslaskoularajean.jpg",
     },
   ];
   const anime = [
