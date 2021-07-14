@@ -32,65 +32,65 @@ const asijskeDrama = [
   ];
   const anime = [
     {
-      nazev: "The Rising Of The Shield Hero / Tate no Yusha no Narigari",
-      popis: "The Rising Of The Shield Hero je mé nejoblíbenější akční fantasy anime. Toto anime je také současně mé první anime tohoto žánru. The Rising Of The Shield Hero připomíná trochu RPG hru. Hrdinové tohoto anime musí ",
+      nazev: "S láskou tě nenávidím",
+      popis: "Sera neměla šťastné dětství. Její otec byl hazardní hráč, který prohrál veškerý jejich majetek. Matka trpí depresemi, je závislá na lécích a není schopná manžela opustit. Sera tak musela už od útlého věku živit nejen sebe, ale i svou matku a sestru, zatímco jí její otec kradl vše, co mu přišlo pod ruku. Ale usmálo se na ni štěstí, když potkala JJ a Bruce, starší homosexuální pár, který ji zaměstnal ve své restauraci. Navíc jí dovolili, aby bezplatně bydlela v jejich bytě. Nyní pendluje mezi restaurací a stáží v reklamní agentuře. Doufá, že tam získá trvalou pozici a konečně se osamostatní. Její sen se ale začne hroutit, když jednu bláznivou noc skončí v náručí neznámého muže, ze kterého se vyklube její nový šéf a soused. Jeho neodbytné flirtování a návrhy ohrožují její budoucnost a Sera neví, co si počít…",
       video: "https://www.youtube.com/embed/9TIA-YVv4oA",
     },
     {
-      nazev: "Vampire Knight (+ Guilty)",
-      popis: "Vampire Knight je upíří anime a současně je to taktéž první anime co jsem viděla celé. Před tímto anime jsem viděla kus anime Diabolic Lovers, které mě od anime na nějakou dobu odradilo. Ale naštěstí mi kamarádka ukázala Vampire Knight. Díky tomuto anime jsem se stala milovník anime a mangi.",
+      nazev: "Bridgertonovi: Vévoda a já",
+      popis: "Simon Basset, vévoda z Hastingsu, vymyslel plán jak se zbavit všech dohazovačů a vdavekchtivých dívek ze společnosti. Předstírá náklonnost k půvabné Daphne Bridgertonové, mladší sestře svého přítele, s níž uzavře dohodu, že se jí bude naoko dvořit. Přestože nemá v úmyslu se oženit, na té dívce je něco, co mu zrychluje srdeční tep. Daphne brzy zapomene, že jejich námluvy jsou pouhá přetvářka. Snad za to může okouzlující pohled jeho pronikavých očí nebo to, co cítí v jeho objetí, ale postupem času se do temperamentního vévody doopravdy zamiluje. Musí však chtě nechtě zabránit tomu, aby jí pohledný vévoda, který se zapřisáhl, že zůstane navždy svobodný, nezlomil srdce.",
       video: "https://youtube.com/embed/1caZJtPXSME",
     },
     {
-      nazev: "Seraph of the End / Owari no Seraph",
-      popis: "Owari no Seraph je mé nejoblíbenější upírké postapokalyptické anime (možná to je tím, že to je jediné upírské postapokalyptické anime, které znám). Jakožto milovnice upíru a démonů jsem si toto anime velice užívala.",
+      nazev: "Pýcha a předsudek",
+      popis: "Autorka líčí klidný a ničím nerušený život, všední radosti, zábavy a starosti. Rodinný klid bývá narušen zejména tehdy, když jsou v rodině dcery a na obzoru se objeví možný ženich. Vdavky jsou pro ženu v této době jedinou možností zaopatření a proto je nutné důmyslné splétání sítí kolem kandidáta ženitby. Autorka dává svému románu ironický podtext. Všechny postavy románu - stoický pan Bennet, jeho energická manželka a pět dcer vstoupily již dávno do podvědomí čtenářské veřejnosti...",
       video: "https://youtube.com/embed/AfXToHcebio",
     },
     {
-      nazev: "A Silent Voice / Koe no Katachi",
-      popis: "Koe no Katachi je můj první anime film. Děj je velice dojemný. Hlavními tématy tohoto anime je láska, šikana a přátelství. Díky hlavní hrdince tohoto anime jsem projevila menší zájem o znakovou řeč. Hlavní hrdinka je totiž hluchá a to jí velice znepříjemňije život a je pro ni těžké zapadnout do kolektivu.",
+      nazev: "Síla stínů",
+      popis: "Princezna Alyssa ana’Raisa, dědička trůnu královen z rodu Šedých vlčic, se cítí mnohem lépe s mečem v ruce než při plnění povinností u dvora. Po setkání se smrtí vyráží do útoku s cílem ukončit válku, která sužuje království po celý Lyssin život. Pokud její hra nevyjde, může přijít o své království, ještě než usedne na trůn. Za hranicemi, v nepřátelském Ardenu, je mladý kapitán Halston Matelon, jehož hvězda je na vzestupu, pověřován stále nebezpečnějšími úkoly. Ocitá se v neřešitelné situaci na hranici mezi životem a smrtí, mezi děsivou pověstí čarodějnic a vlčích válečníků na severu a krutým králem, který vládne jeho domovině. Poté, co se na scéně objeví nový nepřítel – síla, která hrozí, že zničí poslední paprsky naděje v troskách Sedmiříší –, dojde k nerozlučnému propojení složitě propletených osudů Lyss a Hala.",
       video: "https://youtube.com/embed/nfK6UgLra7g",
     },
     {
-      nazev: "Wolf Children / Ōkami Kodomo no Ame to Yuki",
-      popis: "Ōkami Kodomo no Ame to Yuki je podle mě nejlepší a nejdojemější anime film. Já jsem u tohoto anime proplakala začátek, střed i konec. Tot anime ve mě zanechalo opravdu hluboký dojem.",
+      nazev: "Krutý princ",
+      popis: "Vítejte ve světě, kterému vládnou nelítostné víly! První díl napínavé fantasy série. Jude bylo sedm, když jí zabili rodiče a unesli spolu se sestrami na proradný dvůr víl. O deset let později ale netouží Jude po ničem jiném než patřit mezi víly. A to i přes to, že je smrtelná. Většina víl lidmi pohrdá a nejvíce podlý princ Cardan. Aby Jude získala vysněné místo u dvora, musí se princi postavit. Zaplete se však do intrik, a když hrozí, že násilí zničí slavný dvůr, rozhodne se pro pochybné spojenectví, které ji může stát život.",
       video: "https://youtube.com/embed/ed1xwAtF728",
     },
     {
-      nazev: "Beastars",
-      popis: "Beastars je velice originální anime. Celé anime je podle mě vlastně jedna velká alegorie. Člověk o tom musí přemýšlet a pokaždé, co se na to anime člověk podívá, naléza v tom nové skrité významy a nebo v tom vidí úplně něco jiného než to, co viděl předtím.",
+      nazev: "",
+      popis: "",
       video: "https://youtube.com/embed//pJ3wd6u4zlQ",
     },
   ];
   const filmy = [
     {
-      nazev: "Bitva o Sevastopol",
-      popis: "Bitva o Sevastopol je Ruský film o nejlepší ruské odstřelovačce Ljudmile Pavličenkové, také známé jako Paní smrti. Filmje natočen podle knižní předlohy a je velice uvěřitelný, akční a dojemný.",
+      nazev: "Dopisy ztraceným",
+      popis: "Maminka Juliet Youngové byla reportážní fotografka a cestovala po celém světě. Juliet si s ní vždycky psala dopisy. Dokonce i po její smrti jí na hrobě nechává psaníčka. Je to jediný způsob, jak se s tím Juliet dovede vyrovnat. Declan Murphy je ten typ kluka, na kterého nechcete narazit. Během veřejně prospěšných prací, které mu přikázal soud, se pokouší uprchnout démonům své minulosti. Když si Declan přečte dopis, který najde vedle hrobu, neodolá a odepíše. Netrvá to dlouho a už se svěřuje úplně cizímu člověku a je jasné, že mají opravdu hodně společného. Ale Declan ani Juliet netuší, s kým si ve skutečnosti píší. Když se do jejich dopisů zamotá dění ve škole a přeskočí jiskra, tak však Juliet s Declanem zjistí, že pravda by je mohla navždy rozdělit.",
       video: "https://youtube.com/embed/fuPX8mjeb-E",
     },
     {
-      nazev: "Twilight Saga",
-      popis: "Twilight Saga je série pěti filmů natočených podle čtyř knih: Stmívání, Nový měsíc, Zatmění a Rozbřezk. Filmy jsou velice podobný knížkám. Jsou tam sice určité rozdíly, ale i tak je to skvělá upíří sága.",
+      nazev: "Prokletý rok",
+      popis: "Dívkám ve vesnici se tvrdí, že mají moc vyrvat spořádané muže z náruče jejich manželek. Proto jsou v šestnáctém roce života vyhnány do divočiny, kde se musí od této magie očistit – ne všechny se však vrátí. Tierney Jamesová sní o společnosti, kde mají ženy větší hodnotu než kus masa. Ale jak se blíží její vlastní prokletý rok, zjišťuje, že hrozba nečíhá jen v lesích. Nebezpečí se skrývá v nitru samotných dívek.",
       video: "https://youtube.com/embed/oj2GSEkS9QI",
     },
     {
-      nazev: "Better Days",
-      popis: "Better Days je Čínský film natočen podle skutečných událostí. Ve filmu je skvěle ukázáno prostředí škol v číně. Film je plný násilý a velice uvěřitelný. I když to není hezký film z pohledu žánru, je skvěle natočený.",
+      nazev: "Železná zkouška",
+      popis: "Callum Hunt ví už odmalička, že pokud by se někdy zapletl s magií, znamenalo by to pro něj jediné – smrt. Jeho otec mu to ostatně nikdy nedovolí zapomenout. Když je Cal pozván k vstupním zkouškám do tajemné čarodějné školy jménem Magisterium, slíbí otci i sám sobě, že v testu dokonale propadne. Jenže Cal má naneštěstí magii v krvi, takže i přes veškerou snahu je spolu s dalšími dvěma žáky vybrán, aby studoval u největšího mága ze všech, mistra Rufuse. Cal zjišťuje, že magie je mnohem zábavnější, než si kdy uměl představit, a také skoro stejně tak nebezpečná. Ve škole si vedle nových přátel rychle udělá i nové nepřátele…",
       video: "https://youtube.com/embed/E82xfU1Ptaw",
     },
     {
-      nazev: "Underworld",
-      popis: "Underworld je filmová upíří série ubsahující pět filmů: Underworld; Underworld: Evolution; Underworld: Vzpoura Lykanů; Underworld: Probuzení a Underworld: Krvavé války. Jakožto Milovnice upírů romantiky a tajemna, jsem si tuto filmovou sérii velice užila.",
+      nazev: "Skleněný trůn",
+      popis: "V temných a špinavých solných dolech Endovieru si doživotní trest odpykává osmnáctiletá dívka. Celaena je od dětství trénovaná k jednomu jedinému úkolu – stát se tím nejlepším zabijákem na světě, rychlým, tichým, neodhalitelným a všehoschopným. Ale udělala chybu. Nechala se chytit. Korunní princ jí nabídne poslední šanci: Svobodu výměnou za velkou oběť. Musí ho reprezentovat v turnaji, kde se proti sobě postaví 24 šampionů, těch nejlepších vrahů a zlodějů z celé země. Bude to boj na život a na smrt. Pokud zvítězí, bude volná. Ovšem její soupeři umírají nejen při soubojích, ale i za tajemných okolností – Celaena teď o svůj život bojuje nejen s nimi, ale i s něčím tajemným a děsivým, co se skrývá v pozadí.",
       video: "https://youtube.com/embed/vPF3Y4dj_Fk",
     },
     {
-      nazev: "Interview s upírem",
-      popis: "Interview s upírem je film natočený podle knižní předlohy Princ Lestat od Anne Rice. Kniha i film jsou naprosto dokonalé, a film je téměř stejný jako knižní předloha.",
+      nazev: "Stmívání",
+      popis: "Isabella Swan se stěhuje do Forks, městečka ve státě Washington, kde neustále prší. Zdá se jí, že na světě neexistuje nudnější a beznadějnější místo – až dokud nepotká tajuplného a přitažlivého Edwarda Cullena, který doslova obrátí její život vzhůru nohama. Do Isabellina příjezdu Edward úspěšně tajil před obyvateli městečka svou upírskou osobnost. Ale nikdo není v bezpečí, zvláště Isabella, člověk, který je Edwardovi nejdražší. Oba mladí lidé jsou k sobě vázáni silným citovým poutem. Zvítězí milostný cit, nebo hrůzné temné pudy?",
       video: "https://youtube.com/embed/wsjUH8aAW9o",
     },
     {
-      nazev: "Dracula",
-      popis: "Dracula je film natočený podle knižní předlohy Dracula od Brama Stokera. I přes rozdíly mezi filmem a knihou. je film skvěle spracovaný. Tanto film jsem viděla už nesčetněkrát a vím, že ho ještě spostukrát shlédnu.",
+      nazev: "Píseň zimy",
+      popis: "Liesl celé své dětství poslouchala krásné a tajemné příběhy o Králi skřetů – o nezbedném panovníkovi, který vládne podzemí, o Králi duchů, který ji inspiroval ke skládání hudby. Když ale Liesl vyrostla, musela své sny o králi a skládání hudby nechat stranou a věnovat se praktičtějším věcem. Avšak když zmizí její sestra Käthe, jen Liesl ví, že ji odnesli skřeti, a vydává se do podzemní říše, aby ji zachránila a přivedla zpět. Král podzemí jí sestru vydá pouze pod jistou podmínkou – za jeden život vyžaduje jiný. Aby zimu mohlo vystřídat jaro, musí si do podzemí vždy odvést pannu, a pokud se má Käthe vrátit, musí se pro ni Liesl obětovat. Bez smrti se nemůže svět znovu zrodit, a tak Liesl nabídne králi svou ruku. V podzemní říši Liesl zjistí, že ji král nadále inspiruje a že ho obdivuje. Avšak jak se její hudební talent rozvíjí, Liesl pomalu ztrácí sílu a jako králova nevěsta umírá. Čím blíž si ale s králem jsou, tím horší se zdá jejich rozhodnutí: Obětují svou lásku, anebo nastane konec světa?",
       video: "https://youtube.com/embed/fgFPIh5mvNc",
     },
   ];
