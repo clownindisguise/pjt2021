@@ -32,7 +32,7 @@ const asijskeDrama = [
   ];
   const anime = [
     {
-      nazev: "S láskou tě nenávidím",
+      nazev: "S láskou tě  nenávidím",
       popis: "Sera neměla šťastné dětství. Její otec byl hazardní hráč, který prohrál veškerý jejich majetek. Matka trpí depresemi, je závislá na lécích a není schopná manžela opustit. Sera tak musela už od útlého věku živit nejen sebe, ale i svou matku a sestru, zatímco jí její otec kradl vše, co mu přišlo pod ruku. Ale usmálo se na ni štěstí, když potkala JJ a Bruce, starší homosexuální pár, který ji zaměstnal ve své restauraci. Navíc jí dovolili, aby bezplatně bydlela v jejich bytě. Nyní pendluje mezi restaurací a stáží v reklamní agentuře. Doufá, že tam získá trvalou pozici a konečně se osamostatní. Její sen se ale začne hroutit, když jednu bláznivou noc skončí v náručí neznámého muže, ze kterého se vyklube její nový šéf a soused. Jeho neodbytné flirtování a návrhy ohrožují její budoucnost a Sera neví, co si počít…",
       video: "../obalyknih/tipynavanoce/slaskoutenenavidim.jpg",
     },
