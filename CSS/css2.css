@@ -31,7 +31,6 @@
       z-index: 999;
       background-color: rgb(95, 91, 91);
       padding: 0px;
-      position: sticky;
   }
   
   nav:hover {
@@ -138,5 +137,5 @@
       column-count: 1;
     }
     h1{
-      font-size: 15px;}
+      font-size: xx-large;}
   }
