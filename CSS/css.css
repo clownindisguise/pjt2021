@@ -1,5 +1,11 @@
 body {
-    margin: 0px;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1, h2, h3, h4, nav li a, .control button, th{
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
@@ -31,7 +37,7 @@ nav {
     z-index: 999;
     background-color: rgb(95, 91, 91);
     padding: 0px;
-    position: sticky;
+
 }
     
 nav:hover {
@@ -189,6 +195,9 @@ margin-top: 5%;
   }
 
   @media screen and (max-width: 800px) {
+    h1{
+height: auto;
+    }
     .card-layout1{
       display: grid;
       grid-template-columns: 1fr;
@@ -207,6 +216,14 @@ margin-top: 5%;
     nav ul{
       flex-direction: column;
       align-items: center;
+    }
+
+    .video-section{
+      max-width: 90vw;
+    }
+
+    .control button{
+      padding: 5px 5px;
     }
   
   }
