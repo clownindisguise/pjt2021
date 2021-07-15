@@ -45,11 +45,11 @@
   }
   
   nav li a:hover {
-      color: rgb(238, 147, 147);
+    color: rgb(168, 32, 150);
   }
   
   nav li .active{
-      color: chartreuse;
+    color: rgb(201, 170, 236);
   }
   
   .gallery{
