@@ -72,6 +72,13 @@ nav li .active{
 
  }
 
+ footer{
+  padding: 5px;
+  background-color: #666;
+  color: white;
+  text-align: center;
+}
+
  a {
      color: azure;
  }

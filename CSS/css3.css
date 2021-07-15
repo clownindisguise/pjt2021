@@ -8,6 +8,13 @@
       background-color: rgb(238, 213, 253);
       padding: 10px;
   }
+
+  footer{
+    padding: 5px;
+    background-color: #666;
+    color: white;
+    text-align: center;
+  }
   
   /* navigacni panel */
   nav li a {
