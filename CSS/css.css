@@ -127,6 +127,10 @@ margin-top: 5%;
   .popis {
     margin-bottom: 20px;
   }
+
+  .obrazek img{
+    height: 400px;
+  }
   
   .slideshow iframe{
     width: 640px;
@@ -182,4 +186,61 @@ margin-top: 5%;
     align-items: center;
     justify-content: center;
     align-content: center;
+  }
+
+  @media screen and (max-width: 800px) {
+    .card-layout1{
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-auto-rows: auto;
+      grid-gap: 20px;
+    }
+  
+    .card-img img{
+      width: 50%;
+    }
+  
+    .card-h2{
+      grid-row: 1;
+    }
+  
+    nav ul{
+      flex-direction: column;
+      align-items: center;
+    }
+  
+  }
+
+  @media screen and (max-width: 550px) {
+    .card-img img{
+      width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 1024px) {
+    h1{
+      font-size: 20px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .container{
+      column-count: 3;
+    }
+  }
+  
+  @media screen and (max-width: 425px) {
+    .container{
+      column-count: 2;
+    }
+    h1{
+      font-size: 12px;}
+  }
+  
+  @media screen and (max-width: 375px) {
+    .container{
+      column-count: 1;
+    }
+    h1{
+      font-size: 15px;}
   }
