@@ -8,6 +8,10 @@ h1, h2, h3, h4, nav li a, .control button, th{
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.h2napr{
+  margin-top: 40px;
+}
+
 header {
     height: 80px !important;
     text-align: center;
