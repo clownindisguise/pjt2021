@@ -82,7 +82,7 @@
     padding: 5px;
     margin: 5px;
     font-size: 25px;
-    background-color: #777;
+    background-color: rgb(247, 0, 0);
     color: white;
     border-radius: 5px;
     opacity: 0;
@@ -92,6 +92,29 @@
   
   .image:hover h4{
     opacity: 0.5;
+  }
+
+  @media screen and (max-width: 800px) {
+    .card-layout1{
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-auto-rows: auto;
+      grid-gap: 20px;
+    }
+  
+    .card-img img{
+      width: 50%;
+    }
+  
+    .card-h2{
+      grid-row: 1;
+    }
+  
+    nav ul{
+      flex-direction: column;
+      align-items: center;
+    }
+  
   }
 
   @media screen and (max-width: 550px) {
