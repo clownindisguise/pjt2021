@@ -15,7 +15,7 @@ h1, h2, h3, h4, nav li a, .control button, th{
 header {
     height: 80px !important;
     text-align: center;
-    background-color: rgb(238, 213, 253);
+    background-color: rgb(200, 170, 218);
     padding: 10px;
 }
 
@@ -48,11 +48,11 @@ nav:hover {
 }
 
 nav li a:hover {
-    color: rgb(238, 147, 147);
+    color: rgb(168, 32, 150);
 }
 
 nav li .active{
-    color: chartreuse;
+    color: rgb(201, 170, 236);
 }
 
 .bla {
