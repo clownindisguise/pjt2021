@@ -13,7 +13,7 @@
   /* navigacni panel */
   nav li a {
       text-decoration: none;
-      color: rgba(243, 4, 171, 0.5);
+      color: rgb(255, 255, 255);
   }
   nav li{
       list-style: none;
