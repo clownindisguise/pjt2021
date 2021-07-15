@@ -51,23 +51,8 @@ const asijskeDrama = [
       popis: "Princezna Alyssa ana’Raisa, dědička trůnu královen z rodu Šedých vlčic, se cítí mnohem lépe s mečem v ruce než při plnění povinností u dvora. Po setkání se smrtí vyráží do útoku s cílem ukončit válku, která sužuje království po celý Lyssin život. Pokud její hra nevyjde, může přijít o své království, ještě než usedne na trůn. Za hranicemi, v nepřátelském Ardenu, je mladý kapitán Halston Matelon, jehož hvězda je na vzestupu, pověřován stále nebezpečnějšími úkoly. Ocitá se v neřešitelné situaci na hranici mezi životem a smrtí, mezi děsivou pověstí čarodějnic a vlčích válečníků na severu a krutým králem, který vládne jeho domovině. Poté, co se na scéně objeví nový nepřítel – síla, která hrozí, že zničí poslední paprsky naděje v troskách Sedmiříší –, dojde k nerozlučnému propojení složitě propletených osudů Lyss a Hala.",
       video: "../obalyknih/tipynavanoce/silastinu.jpg",
     },
-    {
-      nazev: "Krutý princ",
-      popis: "Vítejte ve světě, kterému vládnou nelítostné víly! První díl napínavé fantasy série. Jude bylo sedm, když jí zabili rodiče a unesli spolu se sestrami na proradný dvůr víl. O deset let později ale netouží Jude po ničem jiném než patřit mezi víly. A to i přes to, že je smrtelná. Většina víl lidmi pohrdá a nejvíce podlý princ Cardan. Aby Jude získala vysněné místo u dvora, musí se princi postavit. Zaplete se však do intrik, a když hrozí, že násilí zničí slavný dvůr, rozhodne se pro pochybné spojenectví, které ji může stát život.",
-      video: "../obalyknih/tipynavanoce/krutyprinc.jpg",
-    },
-    {
-      nazev: "",
-      popis: "",
-      video: "../obalyknih/tipynavanoce/.jpg",
-    },
-  ];
+];
   const filmy = [
-    {
-      nazev: "Dopisy ztraceným",
-      popis: "Maminka Juliet Youngové byla reportážní fotografka a cestovala po celém světě. Juliet si s ní vždycky psala dopisy. Dokonce i po její smrti jí na hrobě nechává psaníčka. Je to jediný způsob, jak se s tím Juliet dovede vyrovnat. Declan Murphy je ten typ kluka, na kterého nechcete narazit. Během veřejně prospěšných prací, které mu přikázal soud, se pokouší uprchnout démonům své minulosti. Když si Declan přečte dopis, který najde vedle hrobu, neodolá a odepíše. Netrvá to dlouho a už se svěřuje úplně cizímu člověku a je jasné, že mají opravdu hodně společného. Ale Declan ani Juliet netuší, s kým si ve skutečnosti píší. Když se do jejich dopisů zamotá dění ve škole a přeskočí jiskra, tak však Juliet s Declanem zjistí, že pravda by je mohla navždy rozdělit.",
-      video: "../obalyknih/tipydodeste/dopisyztracenym.jpg",
-    },
     {
       nazev: "Prokletý rok",
       popis: "Dívkám ve vesnici se tvrdí, že mají moc vyrvat spořádané muže z náruče jejich manželek. Proto jsou v šestnáctém roce života vyhnány do divočiny, kde se musí od této magie očistit – ne všechny se však vrátí. Tierney Jamesová sní o společnosti, kde mají ženy větší hodnotu než kus masa. Ale jak se blíží její vlastní prokletý rok, zjišťuje, že hrozba nečíhá jen v lesích. Nebezpečí se skrývá v nitru samotných dívek.",
