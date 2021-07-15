@@ -8,10 +8,12 @@
       background-color: rgb(238, 213, 253);
       padding: 10px;
   }
+
   
   /* navigacni panel */
   nav li a {
       text-decoration: none;
+      color: rgba(243, 4, 171, 0.5);
   }
   nav li{
       list-style: none;
@@ -38,7 +40,7 @@
   }
   
   nav li a:hover {
-      color: rgb(238, 147, 147);
+      color: rgb(196, 21, 21);
   }
   
   nav li .active{
